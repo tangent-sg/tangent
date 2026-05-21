@@ -1,95 +1,108 @@
-# Tangent — 2-pager for resource partners
+# Tangent: A new AI-informed incubator for Singapore
 
-Tangent is a 24-month, S$200,000 incubator for AI-informed, AI-native entrepreneurship, working with young people based in Singapore. It develops a specific kind of founder — someone who has built with frontier AI tools and local inference throughout the process of developing their business idea, and who goes to market as a sophisticated user of those tools, not as a student of them.
+	`tl;dr:` 
+	
+	`Tangent is a new Singapore-based 24-month incubator for young founders building domain-specific software for nontech SMEs. Tangent’s thesis: AI tools have recently collapsed the cost of building small, tightly scoped software to the point where a very small teams can be cashflow-positive fast and become profitable serving markets too fragmented for venture-backed software companies to serve. We aim to find and incubate founders of these kinds of software businesses. We start the 24-month incubator with 4-week exploration and prototyping sprints run as 10-person cohorts multiple times each year.`
+	
+	`Tangent is looking for resource partners to provide AI subscription access, API credits, and local inference infrastructure access to our incubator participants at prototyping (not production) usage levels.` 
+	
+	`Tangent is an opportunity for resource partners to get unfiltered signal from AI-native founders before tool choices are locked in, workflows are set, and first products are shipped. In exchange for credits and subscriptions (we’re also looking for sponsors for local inference infrastructure), resource partners can have direct contact with what early-stage AI-native builders are experiencing and influence over the tools they choose to build with.` 
+	
+	`Tangent is a prosocial public company limited by guarantee incorporated in Singapore (UEN 201941957R); its startup funding is provided by the Yong Hon Kong Foundation through the Majurity Trust.`
 
-### Thesis
+---
+### What is Tangent?
 
-A new viable format for tech startups has emerged: very small software houses building tightly scoped, verticalised software — what we call "[boring tiny tools](https://vaughntan.org/boringtinytools)." These businesses become cashflow positive early, operate at a TAM well below what venture capital finds interesting, and are attractive to private equity precisely because of their focused defensibility.
+Tangent is a 24-month, S$200,000 incubator for young people based in Singapore. Tangent participants are there to build companies and go to market. From their first day, we expose them to AI models and local inference as the instruments of product development. Sprint participants exit with a scoped prototype and a concrete basis for deciding whether to continue. Fellows who continue into the 24-month programme exit with a product in front of early clients and many months of sustained AI tool usage behind them.
 
-This format is newly possible because of two forces meeting at the same moment. The first is recent: the cost of building small, tightly-scoped software that solves no novel technical problems has fallen sharply in the last six months, driven by a combination of meaningfully better models and significant improvements in coding harnesses. AI-enabled code generation has made it economically viable to build custom software more cheaply and quickly than ever before. The second force is not new at all: nontech SMEs across Singapore and Southeast Asia need software that fits their existing business processes rather than disrupting them. Enterprise software demands too much process change. Traditional consulting is too expensive and produces nothing reusable. What these businesses actually need are boring tiny tools — tightly scoped, affordable, with clear business value — and the market for them has always been there. It is too fragmented for VC-scale startups to address, but that fragmentation is now an advantage for very small software houses that do not need massive TAMs to build a real business.
+Participants start with a four-week sprint; the most promising continue as funded fellows for up to two years.
 
-Boring tiny tooling software houses will be AI-native by necessity. At small headcounts, you cannot build and sell custom software without using AI tools to run the business and to produce the software itself. The headcount economics only work if AI is doing substantial parts of both. To illustrate: a developer in the UK recently built a complete court submission preparation tool for a barristers' chambers in a single afternoon using AI coding tools — PDFs bundled, tables of contents hyperlinked, formatted to court specifications. Work that previously took staff hours per case, built by one person in one afternoon.
+---
 
-The best preparation for building these businesses isn’t coursework about AI, nor lectures on large language models. It is building with a wide variety of AI tools from day one — using frontier and mid-tier models and local inference as the actual instruments of developing an idea into a product: scoping the problem, prototyping a solution, researching potential customers, making architecture decisions, refining what the product does, and running the operational processes of the company that sells it.
+### Tangent’s thesis
+
+A developer in the UK recently built a complete court submission preparation tool for a barristers' chambers in a single afternoon using AI coding tools — PDFs bundled, tables of contents hyperlinked, formatted to court specifications. Work that previously took staff hours per case bundle can now be done in a few minutes. In Singapore, vertically-focused software companies like SysFreight (freight forwarding, bootstrapped for 25 years) and REALTIMME (MCST accounting, bootstrapped for 29 years) have demonstrated that the model works and is sustainable. The moat is domain knowledge; the small TAM is protection, not a liability. What AI tools have changed is who can enter that market and how fast. This is the company Tangent is built to incubate: small, domain-specific software businesses that are cashflow positive by design.
+
+Two forces have converged to make this kind of company possible now. The first is recent: the cost of building small, tightly-scoped software that solves no novel technical problems fell sharply within the last 6 months as model quality and tooling improved together. The second force is older: nontech SMEs across Singapore and Southeast Asia have always needed software that fits their existing business processes without disrupting them. Enterprise software demands too much process change. Traditional software consulting is too expensive and produces bespoke software. What these businesses need are [boring tiny tools](https://vaughntan.org/boringtinytools) — tightly scoped, verticalised software built for specific workflows in specific domains. The market for them has always been there. It's too fragmented for VC-scale startups to address, but that fragmentation is now an advantage for very small software houses that do not need massive TAMs to build a real business.
+
+Boring tiny software houses will be AI-native by necessity: at small headcounts, the economics of building and selling custom software only work if AI is doing substantial parts of both.
+
+The best preparation for founders trying to build these businesses isn't coursework about AI, nor lectures on large language models. It's building with a wide variety of AI tools from day one — using frontier and mid-tier models and local inference to scope the problem, prototype a solution, research potential customers, make architecture decisions, refine what the product does, and run the operational processes of the company that sells it.
 
 Tangent is built on this premise.
 
-Tangent gives participants a way to spend the entire process of developing a business idea with access to a wide range of AI tooling. The exposure is practical: participants who build with AI every day develop a working understanding of what AI tools can and cannot do, which problems benefit from on-premises inference rather than API calls, and where AI changes the economics of what is worth building. The result is a specific kind of founder-builder — someone who has become a sophisticated user of AI tools for building and running businesses from having used them in the process of going to market. Tangent participants are not learners in a classroom. They are AI users learning to be builders, and in the process learning to become AI-informed builder-founders.
+Tangent gives participants access to a wide range of AI tooling throughout the process of developing a business idea. Participants who build with AI every day learn what the tools can and cannot do in practice — which problems call for on-premises inference over API calls, and where AI changes the economics of what is worth building. The result is a specific kind of founder-builder: someone who has used AI tools throughout the process of building a business from idea to market.
 
-### Programme
+---
+
+### Tangent programme structure
 
 Most participants will start with a **four-week sprint**.
 - Each 4-week cohort will be 10–15 participants.
-- Participants begin by developing a plan of work/investigation for the 4 weeks with the help of programme staff.
-- No fixed curriculum or programme, to accommodate the range of technical backgrounds and participant ideas.
-- What each person needs (which tools, which supplemental training, what kind of support) we'll work out individually.
-- Through the 4 weeks, we provide exposure to guides from varied professional backgrounds who come in for 2-hour blocks of office hours and consultation.
+- Participants begin by scoping a four-week plan with programme staff.
+- Each participant's programme is built around their specific project and technical starting point.
+- Through the 4 weeks, practitioners come in for 2-hour blocks of office hours and consultation. These practitioners will include people who have shipped software inside specific Singapore verticals (logistics, F&B, healthcare admin) or who can speak candidly about what software adoption looks like from the client side.
 
-At the end of the 4-week programme, participants can pitch into the full **24-month fellowship.** Anyone can pitch (including those who have not gone through the 4-week sprint).
-- Fellows pitch by describing what they need concretely: what they need to build, what they intend to produce, on what timeline, and how much funding (or other resources) they need.
+At the end of the 4-week programme, participants can pitch into the full **24-month fellowship.** But anyone can pitch (including those who haven’t gone through the 4-week sprint).
+- Fellows pitch concretely: what they are building, what it will produce, on what timeline, and what resources they need.
 - Each fellow's 24-month programme is built around that fellow's project as it evolves.
-- Tangent uses its networks in government, industry, and the third sector to connect fellows to non-capital resources including (but not limited to) introductions to operational staff and procurement officers in target verticals and potential client organisations, meetings with regulators, fractional back-office expertise (e.g., CFO, CHRO, GC) time, access to product management expertise.
+- Tangent uses its networks in government, industry, and the third sector to connect fellows to non-capital resources — introductions to operational staff and procurement officers in target verticals, meetings with regulators, fractional back-office expertise (CFO, CHRO, GC), access to product management expertise.
 - A fellow who needs API credits to produce a prototype, an introduction to a potential first client, or support in scoping a proof of concept can get those things from or through Tangent.
 
-The investment terms: Tangent provides up to $200k over 24 months for 15% of equity, disbursed in blocks as participants pitch for each tranche — what they intend to build, what they will produce, on what timeline. Tangent takes equity pro-rata to the amount disbursed.
+---
 
-### Target demographic
+### Tangent participant profile
 
-Tangent selects on motivation and self-direction, not credentials or academic background:
+The participants Tangent selects are self-directed builders with a specific problem they intend to solve.
 
 - Young people based in Singapore
-- Open to non-citizens and non-PRs, as long as they are able to live and work in Singapore. 
-- Target age range:
-	- Initially 18–24 years, but very flexible on the upper bound; 
-	- Will expand upward to <35 years as we raise further funds in 2027. 
-- Participants with a wide range of technical and interest backgrounds, and specifically seeking out non-technical participants.
-- Strong grades and academics are **not** important to us.
-- The main selection criteria are
-	1. Having a real-world problem they care about solving 
-	2. Having a genuine intention to build.
-	3. Being self-directed and able to work independently.
+- Open to non-citizens and non-PRs, as long as they are able to live and work in Singapore
+- Target age range: initially 18–24 years, but flexible on the upper bound
+- Wide range of technical and interest backgrounds
+- Strong academic credentials are not our primary criterion. Every participant goes through multiple rounds of interviews to assess motivation and builder disposition, which are not always conventionally legible
+- Our main selection criteria:
+  1. Having a real-world problem they care about solving
+  2. Having a genuine intention to build
+  3. Being self-directed and able to work independently
 
-### What we hope participants will build
+---
 
-Tangent wants to incubate businesses that mainstream capital allocation currently systematically undervalues:
+### What Tangent hopes participants will build
 
-1. Software built *using* AI to serve verticalised nontech SME clients whose business process transformation needs are too specific for enterprise-scale software to address effectively;
-2. Businesses whose importance or existence is a direct consequence of AI being deployed at scale.
+Tangent wants to incubate businesses that mainstream capital allocation systematically undervalues: software built *using* AI to serve verticalised nontech SME clients whose business process transformation needs are too specific for enterprise-scale software to address effectively.
 
-Both categories represent a genuine opportunity that has only recently become structurally viable.
+**Boring tiny tools for nontech SMEs**
 
-**Category 1: Boring tiny tools for nontech SMEs**
+Until recently, the economics of building tightly scoped software for individual nontech SME verticals didn't close: development cost was too high for the TAMs on offer. What's changed is the cost of AI-enabled code generation, which fell discontinuously as model quality and tooling improved together. Work that required a team of engineers now requires one or two.
 
-Until about six months ago, the economic logic of building highly customised, tightly scoped software for individual nontech SME verticals didn't work. The fixed cost of development was high enough that the unit economics only made sense at VC-scale TAMs — which verticalised nontech SME markets are not. What has changed is the cost of AI-enabled code generation, which has dropped discontinuously as model quality and tooling harnesses have improved together. Writing software that once required a team now requires a much smaller one.
+This shift changes the shape of the market. Sub-VC-scale vertical markets — a 10-van last-mile logistics company, a quick-service F&B franchisee managing supplier orders, a freight forwarder filing daily customs permits to Tradenet — are now addressable by very small software businesses that can be cashflow positive early and attractive to private equity, not venture capital.
 
-This changes the shape of the market. Sub-VC-scale vertical markets — a 10-van last-mile logistics company, a quick-service F&B franchisee managing supplier orders, a freight forwarder filing daily customs permits to Tradenet — are now addressable by very small software businesses that can be cashflow positive early and attractive to private equity rather than venture capital.
+Writing the code is no longer the bottleneck. The bottleneck is understanding the client's business processes well enough to build software that fits their existing work patterns without requiring them to reorganise around the tool. Nontech SMEs have historically resisted enterprise software for exactly this reason: it demands they change how they work to match the software's assumptions. The new economics make it viable to build the other way — software that conforms to the business. That requires a different kind of founder: one who goes deep into a specific vertical and builds the organisational understanding to write software that fits.
 
-The new competitive bottleneck, however, is not writing the code. It is understanding the client's business processes well enough to write software that fits into existing patterns of work without requiring the client to reorganise around the tool. This is the longstanding digital transformation problem: nontech SMEs have historically resisted enterprise software not because they are unsophisticated but because enterprise software requires them to change how they work to match the software's assumptions. The new economics of software development make it viable to build the other way around — software that conforms to the business rather than demanding the business conform to the software. That requires a different kind of founder: one who is willing to go deep into a specific vertical and build the organisational understanding that lets them write software that is genuinely non-disruptive to deploy.
+Nearly four-fifths of Singapore's economy is in traditional, non-tech industries — construction, retail, logistics, manufacturing, real estate. Most of those businesses are SMEs. The market is large in aggregate and fragmented by vertical — precisely the shape that boring tiny tools, built at low marginal cost, are now able to address.
 
-Nearly four-fifths of Singapore's economy is in traditional, non-tech industries — construction, retail, logistics, manufacturing, real estate — and most of those businesses are SMEs. The market is large in aggregate and fragmented by vertical — precisely the shape that boring tiny tools, built at low marginal cost, are now able to address.
+Singapore's market structure makes it the right place to test this. Small TAMs make venture-capital outcomes structurally unlikely across most of Singapore's industries — and no established alternative capitalisation model for technology businesses has emerged in their place. Tangent is building and validating one: cashflow-positive, domain-specific software companies suited to patient capital, not venture capital. What gets demonstrated here has implications well beyond Singapore.
 
-**Category 2: AI-complementary businesses**
+Some fellows will be building the complementary businesses that AI deployment at scale makes necessary — data services, literacy platforms, provenance infrastructure. These require the same depth of AI tool fluency.
 
-AI is a general-purpose technology. Like electricity or the internet, its deployment at scale creates substantial demand for goods and services that had no market until it arrived. We are in the early phase of this demand curve, and the complementary markets it is producing are already large and still growing.
+---
 
-Three examples illustrate the pattern:
+### How to support Tangent
 
-- *Data labelling and annotation* — as AI training and fine-tuning has scaled, so has demand for high-quality labelled data that models cannot produce themselves. Companies like Scale AI have built substantial businesses providing this service.
-- *AI literacy platforms* — as AI tools become embedded in professional work, organisations need structured ways to bring their workforces up to a baseline of practical competence. Platforms like DeepLearning.AI are addressing this at scale, treating AI literacy as a durable education category rather than a one-time transition cost.
-- *Provenance and attribution* — the proliferation of AI-generated content creates a structural demand for systems that can establish the origin and integrity of digital media. Standards like C2PA/Content Credentials exist because AI deployment at scale made the absence of provenance a recognised problem.
+By the time a fellow exits the programme, they have many months of sustained AI tool use behind them and a product with early customers. To do that, we’re seeking partners to provide:
 
-Each of these businesses exists because AI deployment created a new category of need. None of them would have had a market ten years ago. AI's broad economic impact is already substantial. The less obvious claim is that this generates a predictable class of complementary demands — and that businesses addressing those demands early, with founders who understand AI from building with it, are well positioned.
+**API access and subscriptions** — Tangent launches its first cohort in July 2026, with three cohorts planned for the year and a target of eight per year at scale. Each cohort is 10–15 participants. We’re seeking a credit commitment of a few thousand dollars per cohort — four weeks of scoping, prototyping, and iteration. They also need subscription access at a tier that supports active code prototyping; sufficient rate limits to work without interruption during a development session.
 
-AI's proliferation will drive two structural consequences: a wave of small, highly specialised software companies using AI to build customised tools for the large population of nontech SMEs that has never been adequately served by enterprise software; and a wave of new businesses producing complements that AI deployment at scale makes necessary. These are the businesses Tangent is designed to incubate.
+**Local inference hardware** — We expect one or two participants per cohort to continue into the full fellowship, with 6–10 fellows active by mid-2027. Fellows whose projects require on-premises deployment need access to local inference hardware. Fellows doing on-premises deployment run interactive inference sessions against 7–70B-parameter models — one or two active sessions daily, for prototyping and client demonstrations. Consistent workload at modest scale — purposeful inference at prototype scale.
 
-### What we're asking
+**Guides** — We're also looking for engineers to join as guides: two-hour office hour blocks with participants working through real technical decisions. This is direct, unfiltered access to what early-stage AI-native builders are encountering — before it passes through product teams or enterprise sales cycles. If people in your organisation would find value in that and be willing to show up once per cohort, we’d welcome the introduction.
 
-To incubate both categories of company effectively, participants need access to AI tools from the start — not as a learning exercise, but as their actual development environment.
+**What partners receive** — At the end of each cohort, Tangent provides resource partners with a usage report by project, based on per-participant API keys and subscription accounts. Partners whose engineers participate as guides also get something harder to buy: direct signal from founders at the earliest stages of deployment and productisation — what breaks, what they reach for, where the tools fall short. This kind of signal rarely surfaces through enterprise sales cycles or developer surveys.
 
-**Four-week sprints** — Tangent plans to run three cohorts in 2026, scaling toward eight per year. Each cohort is 10–15 participants. Per cohort, participants are likely to use a few thousand dollars in API credits across four weeks of scoping, prototyping, and iteration. They also need subscription access at a tier that supports active code prototyping — sufficient rate limits to work without interruption during a development session.
+Tangent participants are AI users in the process of becoming builder-founders. The tools they use during the programme are the tools they will depend on as they build their businesses. Getting in early — before these founders have made their tool choices, established their workflows, and built their first products — is how you shape what a generation of AI-native builder-founders reaches for.
 
-**24-month fellows** — typically one or two participants per cohort continue into the full fellowship, with 6–10 fellows active by mid-2027. Usage during the first 8–12 months is sustained but variable and below production scale: building, testing with early clients, refining. Fellows whose projects require on-premises deployment — for data protection, client-side operation, or architectures where cloud API margins don't work — need access to local inference hardware.
+---
 
-We are also looking for engineers willing to come in for two-hour office hour sessions — not to lecture, but to be available to participants working through a technical decision or wanting a perspective from someone who has built at scale.
+### About Tangent
 
-The participants Tangent selects are going to market. Their usage of AI tools during the programme is the beginning of a sustained relationship with those tools, not a one-time draw on an educational budget.
+Tangent is the operating name of Go Tangent Ltd, a prosocial public company limited by guarantee incorporated in Singapore (UEN 201941957R). Tangent’s startup funding is provided by the Yong Hon Kong Foundation through the Majurity Trust (a Singapore-registered charity, UEN 201734370C). Tangent’s executive director is [Vaughn Tan](https://vaughntan.org) ([LinkedIn](https://www.linkedin.com/in/vaughntan)).
