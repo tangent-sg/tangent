@@ -4,15 +4,34 @@ title: For resource partners
 
 # Tangent: A new AI-informed incubator for Singapore
 
-	`tl;dr:` 
+### tl;dr
+
+Tangent is a new Singapore-based incubator for young founders building AI-informed domain-specific software for nontech SMEs. 
+
+**Incubator structure and target numbers:** 
+1. Max 24 months and $200,000 per participant.
+2. Begins with optional 4-week sprint before.
+3. Target volumes:
+	1. 4-week sprint participants: 80-100/year 
+	2. 24-month fellows: 12-16/year
 	
-	`Tangent is a new Singapore-based 24-month incubator for young founders building domain-specific software for nontech SMEs. Tangent’s thesis: AI tools have recently collapsed the cost of building small, tightly scoped software to the point where a very small teams can be cashflow-positive fast and become profitable serving markets too fragmented for venture-backed software companies to serve. We aim to find and incubate founders of these kinds of software businesses. We start the 24-month incubator with 4-week exploration and prototyping sprints run as 10-person cohorts multiple times each year.`
-	
-	`Tangent is looking for resource partners to provide AI subscription access, API credits, and local inference infrastructure access to our incubator participants at prototyping (not production) usage levels.` 
-	
-	`Tangent is an opportunity for resource partners to get unfiltered signal from AI-native founders before tool choices are locked in, workflows are set, and first products are shipped. In exchange for credits and subscriptions (we’re also looking for sponsors for local inference infrastructure), resource partners can have direct contact with what early-stage AI-native builders are experiencing and influence over the tools they choose to build with.` 
-	
-	`Tangent is a prosocial public company limited by guarantee incorporated in Singapore (UEN 201941957R); its startup funding is provided by the Yong Hon Kong Foundation through the Majurity Trust.`
+**Incubator thesis:** AI tools have recently collapsed the cost of building small, tightly scoped software to the point where a very small teams can be cashflow-positive fast and become profitable serving nontech SME markets too fragmented for venture-backed software companies to serve. We aim to find and incubate founders of these kinds of software businesses.
+
+**Resource asks:** 
+1. AI subscriptions,
+2. API credits,
+3. Hardware for local infrastructure,
+4. Tax-deductible contributions for full/partial 24-month fellowships,
+5. Tax-deductible contributions for Tangent operations.
+
+**Resource partner value proposition:** Tangent is an opportunity for resource partners to get unfiltered signal from AI-native founders before tool choices are locked in, workflows are set, and first products are shipped. Resource partners can have direct contact with what early-stage AI-native builders are experiencing, and influence over the tools they build with. 
+
+**Entity and funding information:** 
+1. Tangent is the operating name of Go Tangent Ltd., a prosocial public company limited by guarantee incorporated in Singapore (UEN 201941957R)
+2. Tangent’s executive director is [Vaughn Tan](https://vaughntan.org) ([LinkedIn](https://www.linkedin.com/in/vaughntan)).
+3. Tangent’s startup funding is provided by the Yong Hon Kong Foundation through the Majurity Trust (a Singapore-registered charity, UEN 201734370C). 
+
+More details about Tangent’s structure, underlying thesis, and design intent below. 
 
 ---
 ### What is Tangent?
