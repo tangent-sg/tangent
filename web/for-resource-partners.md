@@ -1,3 +1,7 @@
+---
+title: For resource partners
+---
+
 # Tangent: A new AI-informed incubator for Singapore
 
 	`tl;dr:` 
