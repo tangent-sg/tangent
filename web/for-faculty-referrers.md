@@ -9,3 +9,9 @@ Tangent starts with a four-week programme: S$1,000, access to AI tools, and huma
 So if you know a current student or alumnus who belongs in Tangent, please refer them. And if you know other teachers or referrers who should know about this, please pass it on.
 
 [tangent.org.sg](https://tangent.org.sg/) has details on the programme and how it works, how to apply, how to refer someone, and how to get involved as a guide.
+
+---
+
+### About Tangent
+
+Tangent is a prosocial public company limited by guarantee incorporated in Singapore. Tangent's startup funding is provided through the [Majurity Trust](https://www.majurity.sg/). Tangent's executive director is [Vaughn Tan](https://vaughntan.org/).
