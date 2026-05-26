@@ -16,4 +16,4 @@ So if you know a current student or alumnus who belongs in Tangent, please refer
 
 ### About Tangent
 
-Tangent is a prosocial public company limited by guarantee incorporated in Singapore. Tangent's startup funding is provided through the [Majurity Trust](https://www.majurity.sg/). Tangent's executive director is [Vaughn Tan](https://vaughntan.org/).
+Tangent is a prosocial company limited by guarantee incorporated in Singapore. Tangent's startup funding is provided through the [Majurity Trust](https://www.majurity.sg/). Tangent's executive director is [Vaughn Tan](https://vaughntan.org/).
