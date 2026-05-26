@@ -27,7 +27,7 @@ Tangent is a new Singapore-based incubator for young founders building AI-inform
 **Resource partner value proposition:** Tangent is an opportunity for resource partners to get unfiltered signal from AI-native founders before tool choices are locked in, workflows are set, and first products are shipped. Resource partners can have direct contact with what early-stage AI-native builders are experiencing, and influence over the tools they build with. 
 
 **Entity and funding information:** 
-1. Tangent is the operating name of Go Tangent Ltd., a prosocial public company limited by guarantee incorporated in Singapore (UEN 201941957R)
+1. Tangent is the operating name of Go Tangent Ltd., a prosocial company limited by guarantee incorporated in Singapore (UEN 201941957R)
 2. Tangent’s executive director is [Vaughn Tan](https://vaughntan.org) ([LinkedIn](https://www.linkedin.com/in/vaughntan)).
 3. Tangent’s startup funding is provided by the Yong Hon Kong Foundation through the Majurity Trust (a Singapore-registered charity, UEN 201734370C). 
 
@@ -128,4 +128,4 @@ Tangent participants are AI users in the process of becoming builder-founders. T
 
 ### About Tangent
 
-Tangent is the operating name of Go Tangent Ltd, a prosocial public company limited by guarantee incorporated in Singapore (UEN 201941957R). Tangent’s startup funding is provided by the Yong Hon Kong Foundation through the Majurity Trust (a Singapore-registered charity, UEN 201734370C). Tangent’s executive director is [Vaughn Tan](https://vaughntan.org) ([LinkedIn](https://www.linkedin.com/in/vaughntan)).
+Tangent is the operating name of Go Tangent Ltd, a prosocial company limited by guarantee incorporated in Singapore (UEN 201941957R). Tangent’s startup funding is provided by the Yong Hon Kong Foundation through the Majurity Trust (a Singapore-registered charity, UEN 201734370C). Tangent’s executive director is [Vaughn Tan](https://vaughntan.org) ([LinkedIn](https://www.linkedin.com/in/vaughntan)).
