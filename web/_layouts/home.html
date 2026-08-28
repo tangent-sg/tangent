@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: site.baseurl }}?v=2">
 </head>
 <body>
   <div class="container">
@@ -13,7 +13,7 @@
       <ul>
         {% assign sorted_pages = site.pages | sort: "title" %}
         {% for p in sorted_pages %}
-          {% if p.title and p.url != "/" %}
+          {% if p.title and p.url != "/" and p.hidden != true %}
             <li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
           {% endif %}
         {% endfor %}
