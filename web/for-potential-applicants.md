@@ -1,5 +1,6 @@
 ---
 title: For potential applicants
+hidden: true
 ---
 
 # Tangent: A new AI-informed incubator for Singapore
