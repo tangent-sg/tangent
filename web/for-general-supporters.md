@@ -1,5 +1,6 @@
 ---
 title: For general supporters (including potential guides)
+hidden: true
 ---
 
 # Tangent: A new AI-informed incubator for Singapore
