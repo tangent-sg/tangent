@@ -28,7 +28,7 @@ Tangent is a four-week early stage startup sprint. Each participant gets a S$1,0
 We select into Tangent based on motivation and self-direction rather than grades or credentials. Tangent recruits from across the range of IHLs in Singapore, but is especially interested in having more participants from polytechnics and ITE. [Cohort 1](https://tangent.org.sg/cohort1) ran from 13 July to 7 August 2026 with 17 participants across 10 projects. [Cohort 2](https://tangent.org.sg/cohort-2-landing-page) will run 31 August to 25 September, and [Cohort 3](https://tangent.org.sg/cohort-3-landing-page) (space still available) from 19 October to 13 November. We also have five more cohorts scheduled through the end of 2027 (including one focused on creative industry participants in June 2027, in collaboration with Tusitala), each scheduled to coincide with IHL term breaks. 
 
 ## Organisational form
-Tangent is the operating name of Go Tangent Ltd (UEN 201941957R), a Singapore public company limited by guarantee. Its startup funding comes from private philanthropic contributions through the Majurity Trust; it takes no government funding at the moment. Tangent has a staff of two: [Dr. Vaughn Tan](https://vaughntan.org/) (executive director) and Harper Chew (programme associate).
+Tangent is the operating name of Go Tangent Ltd (UEN 201941957R), a Singapore prosocial company limited by guarantee. Its startup funding comes from private philanthropic contributions through the Majurity Trust; it takes no government funding at the moment. Tangent has a staff of two: [Dr. Vaughn Tan](https://vaughntan.org/) (executive director) and Harper Chew (programme associate).
 
 # The support we’re looking for
 
