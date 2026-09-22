@@ -23,7 +23,7 @@ To learn more about Tangent’s approach, take a look at:
 
 ## Tangent programme details
 
-Tangent is a four-week early stage startup sprint. Each team gets a S$800 discretionary budget with S$200 for each participating founder, plus tools, a place to work in person, and guides from industry that we match specifically to what each team needs. There is no fixed curriculum and no mandatory assignments. Tangent takes no equity, and participants leave at the end of the four weeks owing nothing. (Those who want to continue after the four-week programme can pitch for additional funding from a separate, likely for-profit entity; the structure of this additional funding is still under development.)
+Tangent is a four-week early stage startup sprint. Each team gets a discretionary tooling budget, tools, a place to work in person, and guides from industry that we match specifically to what each team needs. Financial support is available to participants who could not otherwise do a four-week in-person programme. There is no fixed curriculum and no mandatory assignments. Tangent takes no equity, and participants leave at the end of the four weeks owing nothing.
 
 We select into Tangent based on motivation and self-direction rather than grades or credentials. Tangent recruits from across the range of IHLs in Singapore, but is especially interested in having more participants from polytechnics and ITE. [Cohort 1](https://tangent.org.sg/cohort1) ran from 13 July to 7 August 2026 with 17 participants across 10 projects. Several teams from Cohort 1 ([LateranAI](https://tangent.org.sg/lateranai), [Solvere](https://tangent.org.sg/solvere), [Opine](https://tangent.org.sg/opine), and [Mare](https://tangent.org.sg/mare)) achieved contracted revenue by the end of their time with Tangent.
 
@@ -49,7 +49,7 @@ Tangent has been given temporary space until end-October 2026, and is currently 
 
 Tangent’s current funding covers three of the eight cohorts scheduled through the end of 2027. We’re looking for funding for overheads and cohort operating expenses for the remaining scheduled cohorts. Contributions will go directly to running the programme.
 
-- **Per-cohort operating expenses:** participant stipends, costs of tools and software subscriptions provided to teams, food and beverage for cohort events.
+- **Per-cohort operating expenses:** discretionary tooling budgets for teams, costs of tools and software subscriptions provided to teams, financial support for participants who could not otherwise take part, food and beverage for cohort events.
 - **Overheads:** salaries for the 2 Tangent staff, plus general and admin expenses.
 - **Tax treatment:** we may have a mechanism for making funding contributions tax-deductible, but this is still TBD.
 
@@ -58,7 +58,7 @@ Tangent’s current funding covers three of the eight cohorts scheduled through 
 Tangent would also like to explore generating revenue to fund our programmes by  operating paid Tangent-model cohorts for institutions.
 
 - **Who for:** a polytechnic, a university, a foundation, or a company that wants a four-week programme for its own students, members, or staff.
-- **What it is:** the same programme, with the same plan-of-work process, guides, workshops, stipend and tooling, run for a group the institution brings.
+- **What it is:** the same programme, with the same plan-of-work process, guides, workshops, tooling and discretionary tooling budget, run for a group the institution brings.
 - **Terms:** fee-for-service, to be negotiated
 
 ## Referrals
