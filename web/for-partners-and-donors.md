@@ -4,7 +4,7 @@ title: For partners and donors
 
 # Tangent: an unconventional incubator for entrepreneurs
 
-Tangent is a free, not-for-profit incubator in Singapore for underserved potential entrepreneurs — we are especially interested in incubating young people 18-30 but open to participants up to the age of 35. 
+Tangent is a free, not-for-profit incubator in Singapore for underserved potential entrepreneurs — we accept applicants from 18 to 35, and are particularly interested in recruiting 18-22 year olds. 
 
 Tangent isn’t a venture capital incubator; instead we are the complement to venture capital. Venture capital exists to fund businesses that aim to become “unicorns” (i.e., very large companies) by building hypothetical enormous markets and/or new technologies, both of which entail great uncertainty. Tangent looks for the inverse: businesses that want to solve real problems in existing markets using well-understood technology, and which are okay with remaining small. 
 
