@@ -10,8 +10,8 @@ Tangent isn’t a venture capital incubator; instead we are the complement to ve
 
 Two things matter most for Tangent: 
 
-1. Supporting founders who explicitly want to build businesses that get to free cash flow fast, ideally in under 12 months. This rules out a) inventing highly uncertain new technologies, b) building large new markets that don’t exist yet, c) accepting long periods with bad/negative unit economics, and usually d) building unicorns.
-2. Supporting founders who are open to building their businesses informed by technology and AI, even if they aren’t building AI or tech products and services. 
+1. Supporting founders who explicitly want to build businesses that get to free cash flow fast, ideally in 12-18 months. This rules out a) inventing highly uncertain new technologies, b) building large new markets that don’t exist yet, c) accepting long periods with bad/negative unit economics, and usually d) building unicorns.
+2. Supporting founders who are thinking practically about building businesses that are informed by technology and AI, even if they aren’t building AI or tech products and services. 
 
 Tangent’s unusual non-VC approach allows us to support a much more diverse range of entrepreneurship types: for-profit companies, social enterprises, not-for-profits, creative practices. 
 
@@ -23,11 +23,11 @@ To learn more about Tangent’s approach, take a look at:
 
 ## Tangent programme details
 
-Tangent is a four-week early stage startup sprint. Each team gets a discretionary tooling budget, tools, a place to work in person, and guides from industry that we match specifically to what each team needs. Financial support is available to participants who could not otherwise do a four-week in-person programme. There is no fixed curriculum and no mandatory assignments. Tangent takes no equity. The four weeks end with participants sharing back what they did, and that is the only obligation: they leave owing nothing else.
+Each cohort of 9-12 companies (12-18 people) is a four-week early stage startup sprint. Each team gets a discretionary tooling budget, tools, a place to work in person, and guides from industry that we match specifically to what each team needs. Financial support is available to participants who could not otherwise do a four-week in-person programme. There is no fixed curriculum and no mandatory assignments. Tangent takes no equity. The four weeks end with participants sharing back what they did, and that is the only obligation: they leave owing nothing else.
 
 We select into Tangent based on motivation and self-direction rather than grades or credentials. Tangent recruits from across the range of IHLs in Singapore, but is especially interested in having more participants from polytechnics and ITE. [Cohort 1](https://tangent.org.sg/cohort1) ran from 13 July to 7 August 2026 with 17 participants across 10 projects. Several teams from Cohort 1 ([LateranAI](https://tangent.org.sg/lateranai), [Solvere](https://tangent.org.sg/solvere), [Opine](https://tangent.org.sg/opine), and [Mare](https://tangent.org.sg/mare)) achieved contracted revenue by the end of their time with Tangent.
 
-[Cohort 2](https://tangent.org.sg/cohort-2-landing-page) will run 31 August to 25 September, and [Cohort 3](https://tangent.org.sg/cohort-3-landing-page) (space still available) from 19 October to 13 November. We also have five more cohorts scheduled through the end of 2027 (including one focused on creative industry participants in June 2027, in collaboration with Tusitala), each scheduled to coincide with IHL term breaks. 
+[Cohort 2](https://tangent.org.sg/cohort-2-landing-page) ran from 31 August to 25 September, and we are midway through [Cohort 3](https://tangent.org.sg/cohort-3-landing-page), which runs from 19 October to 13 November. We also have five more cohorts scheduled through the end of 2027 (including one focused on creative industry participants in June 2027, in collaboration with Tusitala), each scheduled to coincide with IHL term breaks. 
 
 ## Organisational form
 Tangent is the operating name of Go Tangent Ltd (UEN 201941957R), a Singapore prosocial company limited by guarantee. Its startup funding comes from private philanthropic contributions through the Majurity Trust; it takes no government funding at the moment. Tangent has a staff of two: [Dr. Vaughn Tan](https://vaughntan.org/) (executive director) and Harper Chew (programme associate).
