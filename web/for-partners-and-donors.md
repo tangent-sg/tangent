@@ -36,7 +36,7 @@ Tangent is the operating name of Go Tangent Ltd (UEN 201941957R), a Singapore pr
 
 ## Space for running the programme
 
-Tangent has been given temporary space until end-October 2026, and is currently looking for a more permanent home thereafter.
+Tangent has been given temporary space until November 2026, and is currently looking for a more permanent home thereafter.
 
 - **What we need:** 1100 square feet runs the programme. 2000-2500 square feet of separated and securable space would let a community of Tangent alumni and the wider SME entrepreneurship community form around it.
 - **What we can pay:** as a not-for-profit, Tangent is looking for discounted or sponsored space.
